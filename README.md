@@ -10,7 +10,7 @@ Experiments on MVTec AD and VisA demonstrate that AdapTS matches or surpasses ex
 
 ![AdapTS Architecture](./images/AdaptST_v5.png)
 
-## Performance Tradeoff
+## Performance - Memory tradeoff
 
 ![Performance Tradeoff](./images/perf_mem_trade_off.png)
 
